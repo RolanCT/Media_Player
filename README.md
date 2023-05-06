@@ -1,6 +1,15 @@
 # Media_Player
 
+Hoje em dia, nossos dispositivos móveis contêm diversos arquivos de áudio, porém eles precisam do aplicativo correto para serem ouvidos.
+
+Os players de música, em muitos casos, suportam quase todos os formatos de áudio. Sendo assim, desenvolvemos um aplicativo de music player
+
+
+que contenha as seguintes telas:
+
 Linguangem de Programação: Java
+
+
 Plataforma de desenvolvimento: Android Studio
 
  •	Tela de Playlist: contém uma lista de músicas organizadas por categoria (atualmente lista fictícia).
