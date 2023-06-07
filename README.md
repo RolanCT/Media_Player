@@ -18,6 +18,6 @@ Plataforma de desenvolvimento: Android Studio
  •	Tela de play: Permite tocar uma playlist.
  
  
- NB: O MyMusicPlayer.zip é  funcional , somente baixa esse zip e a foto pra visualização 
+ NB: O MyMusicPlayer_6.zip é  funcional , somente baixa esse zip e a foto pra visualização 
 
 
